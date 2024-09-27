@@ -58,12 +58,3 @@ yarn stop
 - In Connection tab, enter `postgresql`, `task_management`, `username` and `password` as host, database, username and password.
 - Leave all other fields as default value then click `Save`.
 => That's all, you are connected to database in your local container. Try to explore with Pgadmin more and have fun. 
-
-## Reference
-
-This application is configuration of [task-management-frontend](https://github.com/arielweinberger/task-management-frontend) of [Ariel Weinberger](https://github.com/arielweinberger).
-
-# License & copyright
-
-© Kirin Tran, FPT University TP.HCM
-Licensed under the [MIT LICENSE](LICENSE).
