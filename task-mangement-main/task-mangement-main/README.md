@@ -21,16 +21,12 @@
 - Frontend
   - React - A JavaScript library for building user interfaces
   - Create React App - React starter template
-  - MobX - State Management
   - Material UI - UI components
   - Styled-components - Styling
-  - Typescript - Static Type Checker
 - Backend
-  - NestJS - Server Core
-  - Typeorm + Postgres - Database
-  - Passport - Authentication
-  - Jest - Testing
-  - Docker - Operation
+  - Node.js
+  - MongoDB
+  
 
 ## Some preview images
 <img src="./docs/images/authentication.png" width="800" height="392" />
